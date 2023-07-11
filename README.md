@@ -20,9 +20,7 @@ expandButtonText = "Show More",
 collapseButtonText = "Show Less",
 buttonColor = "#1f09cd",
 expanded = false,
-className = "",
-
-> Your Text </TextExpander>
+className = ""> Your Text </TextExpander>
 
 - children (required): The text to be displayed.
 - collapsedNumWords (optional): The maximum number of words to display before truncating the text. Default: 10.
