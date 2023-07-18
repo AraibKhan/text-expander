@@ -12,7 +12,7 @@ The **Text Expander** is a small React component that allows you to display a gi
 
 ## Props
 
-The TextExpander component accepts the following props:
+This component accept following props:
 
 <TextExpander
 collapsedNumWords = 10,
